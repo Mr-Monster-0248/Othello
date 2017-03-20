@@ -1,0 +1,32 @@
+1. Game description
+
+    - The game Black & White is a game that is played with two players.
+    - One plays with the camp of black pawns, the other with the camp of white pawns.
+    - The pawns are all double-sided, one white and one black.
+
+    - The goal of the game is to count, at the end of the game, more pawns of its color than the opponent
+      by returning them according to precise rules.
+
+
+2. Placing of pawns and capturing
+
+    - In his turn of play, the player must place a pawn of his color on an empty box
+      adjacent to an opposing pawn.
+    - He must also, by placing his pawn, enclose one or several opposing pawns between the pawn he places and
+      a pawn of his color, already placed on the game board.
+    - Then, the enclosed opposing pawns are returned to have its color.
+    - The pawns are neither removed from the game board nor moved from one box to another.
+    - The enclosure is done according to the lines, the columns and the diagonals.
+    - If a player cannot enclose at least one opposing pawn, he must skip his turn.
+    - If a player can place a pawn in at least one box, he has to do so.
+    - At the beginning of the game, two black pawns and two white pawns are already placed
+
+
+3. Game Over
+
+    - If a player has no pawns on the game board, he cannot capture anymore opposing pawn,
+      so he has lost the game.
+    - If none of the players can play, then the game ends with a draw.
+    - If all the board is filled with pawns, a count of each players' pawns is made
+      The player who obtains the highest total won the game.
+      There may be a draw.
