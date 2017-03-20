@@ -1,1 +1,1 @@
-#Othello# Othello
+# Othello
